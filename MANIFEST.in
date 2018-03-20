@@ -1,0 +1,4 @@
+grasp pytest_aiohttp
+include LICENSE
+include README.rst
+global-exclude *.pyc
